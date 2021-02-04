@@ -7,12 +7,12 @@ Solve problems one by one, step by step until reach the goal!
 ## 数组篇
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
-|[#1](https://leetcode-cn.com/problems/two-sum/)|-|梦的起点|:smiley: |
-|[#26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)|-|-|:smiley: |
-|[#27](https://leetcode-cn.com/problems/remove-element/)|-|-|:smiley: |
-|[#35](https://leetcode-cn.com/problems/search-insert-position/)|-|二分查找|:sunglasses: |
-|[#53](https://leetcode-cn.com/problems/maximum-subarray/)|-|-|:sunglasses:|
-|[#66](https://leetcode-cn.com/problems/plus-one/)|-|-|:sunglasses:|
+|[#1](https://leetcode-cn.com/problems/two-sum/)两数之和|-|梦的起点|:smiley: |
+|[#26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)删除排序数组中的重复项|-|-|:smiley: |
+|[#27](https://leetcode-cn.com/problems/remove-element/)移除元素|-|-|:smiley: |
+|[#35](https://leetcode-cn.com/problems/search-insert-position/)搜索插入位置|-|二分查找|:sunglasses: |
+|[#53](https://leetcode-cn.com/problems/maximum-subarray/)最大子序和|-|-|:sunglasses:|
+|[#66](https://leetcode-cn.com/problems/plus-one/)加一|-|-|:sunglasses:|
 |[#88](https://leetcode-cn.com/problems/merge-sorted-array/)合并两个有序数组|-|-|:sunglasses:|
 
 
