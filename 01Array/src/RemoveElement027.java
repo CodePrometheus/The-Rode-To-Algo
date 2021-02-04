@@ -10,7 +10,7 @@ import org.junit.Test;
  * @Author: zzStar
  * @Date: 02-03-2021 23:47
  */
-public class RemoveElement {
+public class RemoveElement027 {
 
     public int removeElement(int[] nums, int val) {
         int i = 0;

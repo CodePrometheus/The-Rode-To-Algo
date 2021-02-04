@@ -8,7 +8,7 @@ import org.junit.Test;
  * @Author: zzStar
  * @Date: 02-03-2021 20:43
  */
-public class RemoveDuplicatesFromSortedArray {
+public class RemoveDuplicatesFromSortedArray026 {
 
     /**
      * 双指针解决
