@@ -14,5 +14,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#53](https://leetcode-cn.com/problems/maximum-subarray/)最大子序和|-|-|:sunglasses:|
 |[#66](https://leetcode-cn.com/problems/plus-one/)加一|-|-|:sunglasses:|
 |[#88](https://leetcode-cn.com/problems/merge-sorted-array/)合并两个有序数组|-|-|:sunglasses:|
+|[#118](https://leetcode-cn.com/problems/pascals-triangle/)杨辉三角|-|-|:sunglasses:|
+|[#119](https://leetcode-cn.com/problems/pascals-triangle-ii/)杨辉三角 II|-|-|:sunglasses:|
 
 
