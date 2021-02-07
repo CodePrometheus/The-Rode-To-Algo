@@ -16,5 +16,10 @@ Solve problems one by one, step by step until reach the goal!
 |[#88](https://leetcode-cn.com/problems/merge-sorted-array/)合并两个有序数组|-|-|:sunglasses:|
 |[#118](https://leetcode-cn.com/problems/pascals-triangle/)杨辉三角|-|-|:sunglasses:|
 |[#119](https://leetcode-cn.com/problems/pascals-triangle-ii/)杨辉三角 II|-|-|:sunglasses:|
+|[#121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)买卖股票的最佳时机|-|-|😛|
+|[#121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)买卖股票的最佳时机 II|-|-|😛|
 
+## 链表篇
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
 
