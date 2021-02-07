@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 /**
  * 给定一个数组，它的第i 个元素是一支给定股票第 i 天的价格。
  * <p>
@@ -51,16 +53,26 @@ public class BestTimeToBuyAndSellStockII122 {
         // 1：持有股票
         // 状态转移：0 → 1 → 0 → 1 → 0 → 1 → 0
         // dp[i][j] 表示到下标为 i 的这一天，持股状态为 j 时，我们手上拥有的最大现金数。
+        // 第二维 j 表示下标为 i 的那一天是持有股票，还是持有现金。这里 0 表示持有现金（cash），1 表示持有股票（stock）。
         int[][] dp = new int[len][2];
 
         dp[0][0] = 0;
         dp[0][1] = -prices[0];
 
+        // 由于不限制交易次数，除了最后一天，每一天的状态可能不变化，也可能转移；
+        // 写代码的时候，可以不用对最后一天单独处理，输出最后一天，状态为 0 的时候的值即可。
         for (int i = 1; i < len; i++) {
             // 这两行调换顺序也是可以的
             dp[i][0] = Math.max(dp[i - 1][0], dp[i - 1][1] + prices[i]);
             dp[i][1] = Math.max(dp[i - 1][1], dp[i - 1][0] - prices[i]);
         }
         return dp[len - 1][0];
+    }
+
+    @Test
+    public void maxProfitTest() {
+        int[] nums = {7, 1, 5, 3, 6, 4};
+        System.out.println(maxProfit(nums));
+        System.out.println(maxProfit2(nums));
     }
 }

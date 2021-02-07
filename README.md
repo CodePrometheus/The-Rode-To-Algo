@@ -22,4 +22,5 @@ Solve problems one by one, step by step until reach the goal!
 ## 链表篇
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
+|[#21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)合并两个有序链表|-|-|:money_mouth_face:  |
 
