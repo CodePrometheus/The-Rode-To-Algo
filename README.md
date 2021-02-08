@@ -23,4 +23,6 @@ Solve problems one by one, step by step until reach the goal!
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
 |[#21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)合并两个有序链表|-|-|😶 |
+|[#83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)删除排序链表中的重复元素|-|-|😶 |
+|[#141](https://leetcode-cn.com/problems/linked-list-cycle/)环形链表|-|-|😶 |
 
