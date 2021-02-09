@@ -18,6 +18,10 @@ Solve problems one by one, step by step until reach the goal!
 |[#119](https://leetcode-cn.com/problems/pascals-triangle-ii/)杨辉三角 II|-|-|:sunglasses:|
 |[#121](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)买卖股票的最佳时机|-|-|😛|
 |[#122](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)买卖股票的最佳时机 II|-|-|😛|
+|[#167](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)两数之和 II - 输入有序数组 II|-|-|😄|
+|[#169](https://leetcode-cn.com/problems/majority-element/)多数元素|-|-|😄|
+|[#217](https://leetcode-cn.com/problems/contains-duplicate/)存在重复元素|-|-|😄|
+|[#219](https://leetcode-cn.com/problems/contains-duplicate-ii/)存在重复元素 II|-|-|😄|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
