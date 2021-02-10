@@ -22,6 +22,9 @@ Solve problems one by one, step by step until reach the goal!
 |[#169](https://leetcode-cn.com/problems/majority-element/)多数元素|-|-|😄|
 |[#217](https://leetcode-cn.com/problems/contains-duplicate/)存在重复元素|-|-|😄|
 |[#219](https://leetcode-cn.com/problems/contains-duplicate-ii/)存在重复元素 II|-|-|😄|
+|[#228](https://leetcode-cn.com/problems/summary-ranges/)汇总区间|-|-|😛|
+|[#268](https://leetcode-cn.com/problems/missing-number/)丢失的数字|-|-|😛|
+|[#283](https://leetcode-cn.com/problems/move-zeroes/)移动零|-|-|😛|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
