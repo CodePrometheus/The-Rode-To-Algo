@@ -25,6 +25,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#228](https://leetcode-cn.com/problems/summary-ranges/)汇总区间|-|-|😛|
 |[#268](https://leetcode-cn.com/problems/missing-number/)丢失的数字|-|-|😛|
 |[#283](https://leetcode-cn.com/problems/move-zeroes/)移动零|-|-|😛|
+|[#414](https://leetcode-cn.com/problems/third-maximum-number/)第三大的数|-|-|🎆|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
