@@ -26,6 +26,10 @@ Solve problems one by one, step by step until reach the goal!
 |[#268](https://leetcode-cn.com/problems/missing-number/)丢失的数字|-|-|😛|
 |[#283](https://leetcode-cn.com/problems/move-zeroes/)移动零|-|-|😛|
 |[#414](https://leetcode-cn.com/problems/third-maximum-number/)第三大的数|-|-|🎆|
+|[#448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)找到所有数组中消失的数字|-|-|🎉|
+|[#485](https://leetcode-cn.com/problems/max-consecutive-ones/)最大连续1的个数|-|-|🎉|
+|[#509](https://leetcode-cn.com/problems/fibonacci-number/)斐波那契数|-|-|🎉|
+|[#561](https://leetcode-cn.com/problems/array-partition-i/)数组拆分 I|-|计数排序|🎉|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
