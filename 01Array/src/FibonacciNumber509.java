@@ -7,7 +7,7 @@
 public class FibonacciNumber509 {
 
     /**
-     * 递归
+     * 递归 效率低
      */
     public int fib(int n) {
         if (n < 2) {

@@ -2,7 +2,7 @@
 Solve problems one by one, step by step until reach the goal!
 
 # 模块
-数组-> 链表-> 哈希表-> 字符串-> 栈与队列-> 树-> 回溯-> 贪心-> 动态规划-> 图论-> 高级数据结构
+数组-> 链表 -> 哈希表-> 字符串-> 栈 -> 队列 -> 堆 -> 树  -> 图 -> 排序 -> 递归 -> 滑动窗口 -> 二叉搜索树 -> 回溯 -> 贪心 -> 分治 -> 动态规划-> 
 
 ## 数组篇
 |leetcode_id|solution|remark|mood|
@@ -30,6 +30,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#485](https://leetcode-cn.com/problems/max-consecutive-ones/)最大连续1的个数|-|-|🎉|
 |[#509](https://leetcode-cn.com/problems/fibonacci-number/)斐波那契数|-|-|🎉|
 |[#561](https://leetcode-cn.com/problems/array-partition-i/)数组拆分 I|-|计数排序|🎉|
+|[#566](https://leetcode-cn.com/problems/reshape-the-matrix/)重塑矩阵|-|?|🙄|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
