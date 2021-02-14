@@ -39,3 +39,10 @@ Solve problems one by one, step by step until reach the goal!
 |[#83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)删除排序链表中的重复元素|-|-|😶 |
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)环形链表|-|-|😶 |
 
+
+## 字符串
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
+|[#14](https://leetcode-cn.com/problems/longest-common-prefix/)最长公共前缀|-|-|🌛|
+|[#20](https://leetcode-cn.com/problems/valid-parentheses/)有效的括号|-|-|🌛|
+
