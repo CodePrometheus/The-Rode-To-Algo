@@ -45,4 +45,5 @@ Solve problems one by one, step by step until reach the goal!
 |:-:|:-:|:-:|:-:|
 |[#14](https://leetcode-cn.com/problems/longest-common-prefix/)最长公共前缀|-|-|🌛|
 |[#20](https://leetcode-cn.com/problems/valid-parentheses/)有效的括号|-|-|🌛|
+|[#28](https://leetcode-cn.com/problems/implement-strstr/)实现 strStr()|-|-|🌛|
 
