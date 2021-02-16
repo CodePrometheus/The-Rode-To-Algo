@@ -46,4 +46,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#14](https://leetcode-cn.com/problems/longest-common-prefix/)最长公共前缀|-|-|🌛|
 |[#20](https://leetcode-cn.com/problems/valid-parentheses/)有效的括号|-|-|🌛|
 |[#28](https://leetcode-cn.com/problems/implement-strstr/)实现 strStr()|-|-|🌛|
+|[#38](https://leetcode-cn.com/problems/count-and-say/)外观数列|-|-|🌛|
+|[#58](https://leetcode-cn.com/problems/length-of-last-word/)最后一个单词的长度|-|-|🌛|
+|[#125](https://leetcode-cn.com/problems/valid-palindrome/)验证回文串|-|-|🌛|
 
