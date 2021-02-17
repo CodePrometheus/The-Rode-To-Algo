@@ -49,4 +49,6 @@ Solve problems one by one, step by step until reach the goal!
 |[#38](https://leetcode-cn.com/problems/count-and-say/)外观数列|-|-|🌛|
 |[#58](https://leetcode-cn.com/problems/length-of-last-word/)最后一个单词的长度|-|-|🌛|
 |[#125](https://leetcode-cn.com/problems/valid-palindrome/)验证回文串|-|-|🌛|
+|[#344](https://leetcode-cn.com/problems/reverse-string/)反转字符串|-|-|:sun_with_face: |
+|[#345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)反转字符串|-|-|:sun_with_face: |
 
