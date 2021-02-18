@@ -51,4 +51,6 @@ Solve problems one by one, step by step until reach the goal!
 |[#125](https://leetcode-cn.com/problems/valid-palindrome/)验证回文串|-|-|🌛|
 |[#344](https://leetcode-cn.com/problems/reverse-string/)反转字符串|-|-|:sun_with_face: |
 |[#345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)反转字符串|-|-|:sun_with_face: |
+|[#383](https://leetcode-cn.com/problems/ransom-note/)赎金信|-|-|:sun_with_face: |
+|[#387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)字符串中的第一个唯一字符|-|-|:sun_with_face: |
 
