@@ -56,4 +56,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#415](https://leetcode-cn.com/problems/add-strings/)字符串相加|-|-|:sun_with_face: |
 |[#434](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)字符串中的单词数|-|-|:sun_with_face: |
 |[#459](https://leetcode-cn.com/problems/repeated-substring-pattern/)重复的子字符串|-|-|:sun_with_face: |
+|[#520](https://leetcode-cn.com/problems/detect-capital/)检测大写字母|-|-|:upside_down_face:  |
+|[#521](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)最长特殊序列 Ⅰ|-|-|:upside_down_face:  |
+|[#541](https://leetcode-cn.com/problems/reverse-string-ii/)反转字符串 II Ⅰ|-|-|:upside_down_face:  |
+
 
