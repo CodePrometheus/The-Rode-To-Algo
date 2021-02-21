@@ -60,4 +60,10 @@ Solve problems one by one, step by step until reach the goal!
 |[#521](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)最长特殊序列 Ⅰ|-|-|:upside_down_face:  |
 |[#541](https://leetcode-cn.com/problems/reverse-string-ii/)反转字符串 II Ⅰ|-|-|:upside_down_face:  |
 
+## 栈
+|[#1021](https://leetcode-cn.com/problems/remove-outermost-parentheses/)删除最外层的括号 |-|-|🐮 |
+|[#1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)删除字符串中的所有相邻重复项 |-|-|🐮 |
+
+
+
 
