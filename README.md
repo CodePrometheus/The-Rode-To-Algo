@@ -63,6 +63,8 @@ Solve problems one by one, step by step until reach the goal!
 ## 栈
 |[#1021](https://leetcode-cn.com/problems/remove-outermost-parentheses/)删除最外层的括号 |-|-|🐮 |
 |[#1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)删除字符串中的所有相邻重复项 |-|-|🐮 |
+|[#1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/)用栈操作构建数组 |-|-|🐪 |
+|[#1554](https://leetcode-cn.com/problems/make-the-string-great/)整理字符串 |-|-|🐪 |
 
 
 
