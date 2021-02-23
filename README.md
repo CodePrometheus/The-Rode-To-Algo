@@ -31,6 +31,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#509](https://leetcode-cn.com/problems/fibonacci-number/)斐波那契数|-|-|🎉|
 |[#561](https://leetcode-cn.com/problems/array-partition-i/)数组拆分 I|-|计数排序|🎉|
 |[#566](https://leetcode-cn.com/problems/reshape-the-matrix/)重塑矩阵|-|?|🙄|
+|[#674](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)最长连续递增序列|-|?|🎃|
+|[#717](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)最长连续递增序列|-|?|🎃|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
