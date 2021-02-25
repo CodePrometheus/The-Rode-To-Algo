@@ -35,6 +35,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#628](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)三个数的最大乘积|-|?|:1st_place_medal: |
 |[#674](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)最长连续递增序列|-|?|🎃|
 |[#717](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)最长连续递增序列|-|?|🎃|
+|[#746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)使用最小花费爬楼梯|-|?|🥟|
+|[#747](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)至少是其他数字两倍的最大数|-|?|🥟|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
