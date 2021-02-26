@@ -37,6 +37,9 @@ Solve problems one by one, step by step until reach the goal!
 |[#717](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)最长连续递增序列|-|?|🎃|
 |[#746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)使用最小花费爬楼梯|-|?|🥟|
 |[#747](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)至少是其他数字两倍的最大数|-|?|🥟|
+|[#766](https://leetcode-cn.com/problems/toeplitz-matrix/)托普利茨矩阵|-|?|🥟|
+|[#830](https://leetcode-cn.com/problems/positions-of-large-groups/)较大分组的位置|-|?|🥟|
+|[#832](https://leetcode-cn.com/problems/flipping-an-image/)翻转图像|-|?|🥟|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
