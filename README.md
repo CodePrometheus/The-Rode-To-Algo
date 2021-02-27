@@ -40,6 +40,9 @@ Solve problems one by one, step by step until reach the goal!
 |[#766](https://leetcode-cn.com/problems/toeplitz-matrix/)托普利茨矩阵|-|?|🥟|
 |[#830](https://leetcode-cn.com/problems/positions-of-large-groups/)较大分组的位置|-|?|🥟|
 |[#832](https://leetcode-cn.com/problems/flipping-an-image/)翻转图像|-|?|🥟|
+|[#867](https://leetcode-cn.com/problems/transpose-matrix/)转置矩阵|-|?|:microscope: |
+|[#896](https://leetcode-cn.com/problems/monotonic-array/)单调数列|-|?|:microscope: |
+|[#905](https://leetcode-cn.com/problems/sort-array-by-parity/)按奇偶排序数组|-|?|:microscope: |
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
