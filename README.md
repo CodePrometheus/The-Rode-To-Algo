@@ -43,6 +43,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#867](https://leetcode-cn.com/problems/transpose-matrix/)转置矩阵|-|?|:microscope: |
 |[#896](https://leetcode-cn.com/problems/monotonic-array/)单调数列|-|?|:microscope: |
 |[#905](https://leetcode-cn.com/problems/sort-array-by-parity/)按奇偶排序数组|-|?|:microscope: |
+|[#922](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)按奇偶排序数组 II|-|?|:cloud_with_rain:  |
+|[#925](https://leetcode-cn.com/problems/long-pressed-name/)长按键入 II|-|?|:cloud_with_rain:  |
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
