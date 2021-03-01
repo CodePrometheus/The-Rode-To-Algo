@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 /**
  * 斐波那契数，通常用 F(n) 表示，形成的序列称为 斐波那契数列 。该数列由 0 和 1 开始，后面的每一项数字都是前面两项数字的和。也就是：
  *
@@ -35,4 +37,10 @@ public class FibonacciNumber509 {
         return b;
     }
 
+    @Test
+    public void fibTest() {
+        int n = 3;
+        System.out.println(fib(3));
+        System.out.println(fib2(3));
+    }
 }
