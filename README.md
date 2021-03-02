@@ -25,28 +25,32 @@ Solve problems one by one, step by step until reach the goal!
 |[#228](https://leetcode-cn.com/problems/summary-ranges/)汇总区间|-|-|😛|
 |[#268](https://leetcode-cn.com/problems/missing-number/)丢失的数字|-|-|😛|
 |[#283](https://leetcode-cn.com/problems/move-zeroes/)移动零|-|-|😛|
-|[#303](https://leetcode-cn.com/problems/range-sum-query-immutable/)区域和检索 - 数组不可变|-|?|:school:   |
+|[#303](https://leetcode-cn.com/problems/range-sum-query-immutable/)区域和检索 - 数组不可变|-|前缀和|:school:   |
+|[#304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)二维区域和检索 - 矩阵不可变|-|前缀和|☀|
 |[#414](https://leetcode-cn.com/problems/third-maximum-number/)第三大的数|-|-|🎆|
 |[#448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)找到所有数组中消失的数字|-|-|🎉|
 |[#485](https://leetcode-cn.com/problems/max-consecutive-ones/)最大连续1的个数|-|-|🎉|
 |[#509](https://leetcode-cn.com/problems/fibonacci-number/)斐波那契数|-|-|🎉|
 |[#561](https://leetcode-cn.com/problems/array-partition-i/)数组拆分 I|-|计数排序|🎉|
 |[#566](https://leetcode-cn.com/problems/reshape-the-matrix/)重塑矩阵|-|?|🙄|
-|[#605](https://leetcode-cn.com/problems/can-place-flowers/)种花问题|-|?|:1st_place_medal: |
-|[#628](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)三个数的最大乘积|-|?|:1st_place_medal: |
-|[#674](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)最长连续递增序列|-|?|🎃|
-|[#717](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)最长连续递增序列|-|?|🎃|
-|[#746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)使用最小花费爬楼梯|-|?|🥟|
-|[#747](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)至少是其他数字两倍的最大数|-|?|🥟|
-|[#766](https://leetcode-cn.com/problems/toeplitz-matrix/)托普利茨矩阵|-|?|🥟|
-|[#830](https://leetcode-cn.com/problems/positions-of-large-groups/)较大分组的位置|-|?|🥟|
-|[#832](https://leetcode-cn.com/problems/flipping-an-image/)翻转图像|-|?|🥟|
-|[#867](https://leetcode-cn.com/problems/transpose-matrix/)转置矩阵|-|?|:microscope: |
-|[#896](https://leetcode-cn.com/problems/monotonic-array/)单调数列|-|?|:microscope: |
-|[#905](https://leetcode-cn.com/problems/sort-array-by-parity/)按奇偶排序数组|-|?|:microscope: |
-|[#922](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)按奇偶排序数组 II|-|?|:cloud_with_rain:  |
-|[#925](https://leetcode-cn.com/problems/long-pressed-name/)长按键入 II|-|?|:cloud_with_rain:  |
-|[#937](https://leetcode-cn.com/problems/reorder-data-in-log-files/)重新排列日志文件|-|?|:school:   |
+|[#605](https://leetcode-cn.com/problems/can-place-flowers/)种花问题|-||:1st_place_medal: |
+|[#628](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/)三个数的最大乘积|-||:1st_place_medal: |
+|[#674](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/)最长连续递增序列|-||🎃|
+|[#717](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/)最长连续递增序列|-||🎃|
+|[#746](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)使用最小花费爬楼梯|-||🥟|
+|[#747](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/)至少是其他数字两倍的最大数|-||🥟|
+|[#766](https://leetcode-cn.com/problems/toeplitz-matrix/)托普利茨矩阵|-||🥟|
+|[#830](https://leetcode-cn.com/problems/positions-of-large-groups/)较大分组的位置|-||🥟|
+|[#832](https://leetcode-cn.com/problems/flipping-an-image/)翻转图像|-||🥟|
+|[#867](https://leetcode-cn.com/problems/transpose-matrix/)转置矩阵|-||:microscope: |
+|[#896](https://leetcode-cn.com/problems/monotonic-array/)单调数列|-||:microscope: |
+|[#905](https://leetcode-cn.com/problems/sort-array-by-parity/)按奇偶排序数组|-||:microscope: |
+|[#922](https://leetcode-cn.com/problems/sort-array-by-parity-ii/)按奇偶排序数组 II|-||:cloud_with_rain:  |
+|[#925](https://leetcode-cn.com/problems/long-pressed-name/)长按键入 II|-||:cloud_with_rain:  |
+|[#937](https://leetcode-cn.com/problems/reorder-data-in-log-files/)重新排列日志文件|-||:school:   |
+|[#941](https://leetcode-cn.com/problems/valid-mountain-array/)有效的山脉数组|-||☀|
+|[#977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)有序数组的平方|-||☀|
+
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
@@ -77,6 +81,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#541](https://leetcode-cn.com/problems/reverse-string-ii/)反转字符串 II Ⅰ|-|-|:upside_down_face:  |
 
 ## 栈
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
 |[#1021](https://leetcode-cn.com/problems/remove-outermost-parentheses/)删除最外层的括号 |-|-|🐮 |
 |[#1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)删除字符串中的所有相邻重复项 |-|-|🐮 |
 |[#1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/)用栈操作构建数组 |-|-|🐪 |
