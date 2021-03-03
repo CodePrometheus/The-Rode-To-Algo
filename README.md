@@ -27,6 +27,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#283](https://leetcode-cn.com/problems/move-zeroes/)移动零|-|-|😛|
 |[#303](https://leetcode-cn.com/problems/range-sum-query-immutable/)区域和检索 - 数组不可变|-|前缀和|:school:   |
 |[#304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)二维区域和检索 - 矩阵不可变|-|前缀和|☀|
+|[#338](https://leetcode-cn.com/problems/counting-bits/)比特位计数|-||😥|
 |[#414](https://leetcode-cn.com/problems/third-maximum-number/)第三大的数|-|-|🎆|
 |[#448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)找到所有数组中消失的数字|-|-|🎉|
 |[#485](https://leetcode-cn.com/problems/max-consecutive-ones/)最大连续1的个数|-|-|🎉|
@@ -49,6 +50,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#925](https://leetcode-cn.com/problems/long-pressed-name/)长按键入 II|-||:cloud_with_rain:  |
 |[#937](https://leetcode-cn.com/problems/reorder-data-in-log-files/)重新排列日志文件|-||:school:   |
 |[#941](https://leetcode-cn.com/problems/valid-mountain-array/)有效的山脉数组|-||☀|
+|[#953](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)验证外星语词典|-|?|😥|
+|[#961](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)重复 N 次的元素|-||😥|
 |[#977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)有序数组的平方|-||☀|
 
 
