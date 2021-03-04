@@ -1,5 +1,13 @@
-# LeetCode
+# Changing
 Solve problems one by one, step by step until reach the goal!
+
+题目来源：
+    LeetCode
+    CodeTop
+    AcWing
+    剑指Offer
+    牛客网
+    
 
 # 模块
 数组-> 链表 -> 哈希表-> 字符串-> 栈 -> 队列 -> 堆 -> 树  -> 图 -> 排序 -> 递归 -> 滑动窗口 -> 二叉搜索树 -> 回溯 -> 贪心 -> 分治 -> 动态规划-> 
@@ -28,6 +36,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#303](https://leetcode-cn.com/problems/range-sum-query-immutable/)区域和检索 - 数组不可变|-|前缀和|:school:   |
 |[#304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)二维区域和检索 - 矩阵不可变|-|前缀和|☀|
 |[#338](https://leetcode-cn.com/problems/counting-bits/)比特位计数|-||😥|
+|[#354](https://leetcode-cn.com/problems/russian-doll-envelopes/)俄罗斯套娃信封问题|-|困难|😥|
 |[#414](https://leetcode-cn.com/problems/third-maximum-number/)第三大的数|-|-|🎆|
 |[#448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)找到所有数组中消失的数字|-|-|🎉|
 |[#485](https://leetcode-cn.com/problems/max-consecutive-ones/)最大连续1的个数|-|-|🎉|
@@ -53,7 +62,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#953](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/)验证外星语词典|-|?|😥|
 |[#961](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array/)重复 N 次的元素|-||😥|
 |[#977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)有序数组的平方|-||☀|
-
+|[#985](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)查询后的偶数和|-|?|😥|
+|[#989](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)数组形式的整数加法|-||😥|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
