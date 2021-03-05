@@ -64,6 +64,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#977](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)有序数组的平方|-||☀|
 |[#985](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/)查询后的偶数和|-|?|😥|
 |[#989](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)数组形式的整数加法|-||😥|
+|[#1002](https://leetcode-cn.com/problems/find-common-characters/)查找常用字符|-||☁|
+|[#1013](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)将数组分成和相等的三个部分|-||☁|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
@@ -96,6 +98,7 @@ Solve problems one by one, step by step until reach the goal!
 ## 栈
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
+|[#232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)用栈实现队列|-||☁|
 |[#1021](https://leetcode-cn.com/problems/remove-outermost-parentheses/)删除最外层的括号 |-|-|🐮 |
 |[#1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)删除字符串中的所有相邻重复项 |-|-|🐮 |
 |[#1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/)用栈操作构建数组 |-|-|🐪 |
