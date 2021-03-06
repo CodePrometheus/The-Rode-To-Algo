@@ -40,6 +40,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#414](https://leetcode-cn.com/problems/third-maximum-number/)第三大的数|-|-|🎆|
 |[#448](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)找到所有数组中消失的数字|-|-|🎉|
 |[#485](https://leetcode-cn.com/problems/max-consecutive-ones/)最大连续1的个数|-|-|🎉|
+|[#503](https://leetcode-cn.com/problems/next-greater-element-ii/)下一个更大元素 II|-|-|☁ |
 |[#509](https://leetcode-cn.com/problems/fibonacci-number/)斐波那契数|-|-|🎉|
 |[#561](https://leetcode-cn.com/problems/array-partition-i/)数组拆分 I|-|计数排序|🎉|
 |[#566](https://leetcode-cn.com/problems/reshape-the-matrix/)重塑矩阵|-|?|🙄|
@@ -105,5 +106,10 @@ Solve problems one by one, step by step until reach the goal!
 |[#1554](https://leetcode-cn.com/problems/make-the-string-great/)整理字符串 |-|-|🐪 |
 
 
+## 队列
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
+|[#Offer59-1](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)剑指 Offer 59 - I. 滑动窗口的最大值|-||☁|
+|[#933](https://leetcode-cn.com/problems/number-of-recent-calls/)最近的请求次数 |-|-|☁ |
 
 
