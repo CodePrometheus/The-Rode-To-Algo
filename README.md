@@ -85,6 +85,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#38](https://leetcode-cn.com/problems/count-and-say/)外观数列|-|-|🌛|
 |[#58](https://leetcode-cn.com/problems/length-of-last-word/)最后一个单词的长度|-|-|🌛|
 |[#125](https://leetcode-cn.com/problems/valid-palindrome/)验证回文串|-|-|🌛|
+|[#131](https://leetcode-cn.com/problems/palindrome-partitioning/)分割回文串|-|M 回溯|:cold_face: |
 |[#344](https://leetcode-cn.com/problems/reverse-string/)反转字符串|-|-|:sun_with_face: |
 |[#345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)反转字符串|-|-|:sun_with_face: |
 |[#383](https://leetcode-cn.com/problems/ransom-note/)赎金信|-|-|:sun_with_face: |
@@ -95,6 +96,9 @@ Solve problems one by one, step by step until reach the goal!
 |[#520](https://leetcode-cn.com/problems/detect-capital/)检测大写字母|-|-|:upside_down_face:  |
 |[#521](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/)最长特殊序列 Ⅰ|-|-|:upside_down_face:  |
 |[#541](https://leetcode-cn.com/problems/reverse-string-ii/)反转字符串 II Ⅰ|-|-|:upside_down_face:  |
+|[#551](https://leetcode-cn.com/problems/student-attendance-record-i/)学生出勤记录 I|-||:cold_face: |
+|[#557](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)反转字符串中的单词 III|-||:cold_face: |
+
 
 ## 栈
 |leetcode_id|solution|remark|mood|
