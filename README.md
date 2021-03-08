@@ -71,9 +71,11 @@ Solve problems one by one, step by step until reach the goal!
 ## 链表篇
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
+|[#2](https://leetcode-cn.com/problems/add-two-numbers/)两数相加|-|M ?|:fallen_leaf:  |
 |[#21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)合并两个有序链表|-|-|😶 |
 |[#83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)删除排序链表中的重复元素|-|-|😶 |
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)环形链表|-|-|😶 |
+|[#206](https://leetcode-cn.com/problems/reverse-linked-list)反转链表|-|-|:fallen_leaf:  |
 
 
 ## 字符串
@@ -86,6 +88,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#58](https://leetcode-cn.com/problems/length-of-last-word/)最后一个单词的长度|-|-|🌛|
 |[#125](https://leetcode-cn.com/problems/valid-palindrome/)验证回文串|-|-|🌛|
 |[#131](https://leetcode-cn.com/problems/palindrome-partitioning/)分割回文串|-|M 回溯|:cold_face: |
+|[#132](https://leetcode-cn.com/problems/palindrome-partitioning-ii//)分割回文串 II|-|H 中心扩展|:cold_face: |
 |[#344](https://leetcode-cn.com/problems/reverse-string/)反转字符串|-|-|:sun_with_face: |
 |[#345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)反转字符串|-|-|:sun_with_face: |
 |[#383](https://leetcode-cn.com/problems/ransom-note/)赎金信|-|-|:sun_with_face: |
