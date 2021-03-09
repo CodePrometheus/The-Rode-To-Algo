@@ -67,6 +67,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#989](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)数组形式的整数加法|-||😥|
 |[#1002](https://leetcode-cn.com/problems/find-common-characters/)查找常用字符|-||☁|
 |[#1013](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)将数组分成和相等的三个部分|-||☁|
+|[#1480](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)一维数组的动态和 |-||:smiley: |
+|[#1672](https://leetcode-cn.com/problems/richest-customer-wealth/)最富有客户的资产总量 |-||:smiley: |
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
@@ -101,6 +103,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#541](https://leetcode-cn.com/problems/reverse-string-ii/)反转字符串 II Ⅰ|-|-|:upside_down_face:  |
 |[#551](https://leetcode-cn.com/problems/student-attendance-record-i/)学生出勤记录 I|-||:cold_face: |
 |[#557](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)反转字符串中的单词 III|-||:cold_face: |
+|[#1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)删除字符串中的所有相邻重复项 |-||:sun_behind_small_cloud:  |
 
 
 ## 栈
