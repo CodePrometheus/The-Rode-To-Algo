@@ -124,3 +124,10 @@ Solve problems one by one, step by step until reach the goal!
 |[#933](https://leetcode-cn.com/problems/number-of-recent-calls/)最近的请求次数 |-|-|☁ |
 
 
+## shu
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
+|[#100](https://leetcode-cn.com/problems/same-tree/)相同的树 |-|-|🍜 |
+|[#450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)删除二叉搜索树中的节点 |-|-|🍜 |
+
+
