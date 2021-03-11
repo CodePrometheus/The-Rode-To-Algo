@@ -75,6 +75,7 @@ Solve problems one by one, step by step until reach the goal!
 |:-:|:-:|:-:|:-:|
 |[#2](https://leetcode-cn.com/problems/add-two-numbers/)两数相加|-|M ?|:fallen_leaf:  |
 |[#21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)合并两个有序链表|-|-|😶 |
+|[#25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)无重复字符的最长子串|-|H|:thinking: |
 |[#83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)删除排序链表中的重复元素|-|-|😶 |
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)环形链表|-|-|😶 |
 |[#206](https://leetcode-cn.com/problems/reverse-linked-list)反转链表|-|-|:fallen_leaf:  |
@@ -83,6 +84,7 @@ Solve problems one by one, step by step until reach the goal!
 ## 字符串
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
+|[#3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)无重复字符的最长子串|-|M|:thinking: |
 |[#14](https://leetcode-cn.com/problems/longest-common-prefix/)最长公共前缀|-|-|🌛|
 |[#20](https://leetcode-cn.com/problems/valid-parentheses/)有效的括号|-|-|🌛|
 |[#28](https://leetcode-cn.com/problems/implement-strstr/)实现 strStr()|-|-|🌛|
@@ -111,6 +113,7 @@ Solve problems one by one, step by step until reach the goal!
 |:-:|:-:|:-:|:-:|
 |[#232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)用栈实现队列|-||☁|
 |[#224](https://leetcode-cn.com/problems/basic-calculator/)基本计算器 |-|-|🍜 |
+|[#227](https://leetcode-cn.com/problems/basic-calculator-ii/)基本计算器 II |-|M|🍜 |
 |[#1021](https://leetcode-cn.com/problems/remove-outermost-parentheses/)删除最外层的括号 |-|-|🐮 |
 |[#1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)删除字符串中的所有相邻重复项 |-|-|🐮 |
 |[#1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/)用栈操作构建数组 |-|-|🐪 |
@@ -124,7 +127,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#933](https://leetcode-cn.com/problems/number-of-recent-calls/)最近的请求次数 |-|-|☁ |
 
 
-## shu
+## 树
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
 |[#100](https://leetcode-cn.com/problems/same-tree/)相同的树 |-|-|🍜 |
