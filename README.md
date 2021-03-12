@@ -16,6 +16,7 @@ Solve problems one by one, step by step until reach the goal!
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
 |[#1](https://leetcode-cn.com/problems/two-sum/)两数之和|-|梦的起点|:smiley: |
+|[#3](https://leetcode-cn.com/problems/3sum/)三数之和 |-|M|:tired_face: |
 |[#26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)删除排序数组中的重复项|-|-|:smiley: |
 |[#27](https://leetcode-cn.com/problems/remove-element/)移除元素|-|-|:smiley: |
 |[#35](https://leetcode-cn.com/problems/search-insert-position/)搜索插入位置|-|二分查找|:sunglasses: |
@@ -131,6 +132,7 @@ Solve problems one by one, step by step until reach the goal!
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
 |[#100](https://leetcode-cn.com/problems/same-tree/)相同的树 |-|-|🍜 |
+|[#331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)验证二叉树的前序序列化 |-|M|:tired_face: |
 |[#450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)删除二叉搜索树中的节点 |-|-|🍜 |
 
 
