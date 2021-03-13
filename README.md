@@ -107,6 +107,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#551](https://leetcode-cn.com/problems/student-attendance-record-i/)学生出勤记录 I|-||:cold_face: |
 |[#557](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/)反转字符串中的单词 III|-||:cold_face: |
 |[#1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)删除字符串中的所有相邻重复项 |-||:sun_behind_small_cloud:  |
+|[#1370](https://leetcode-cn.com/problems/increasing-decreasing-string/)上升下降字符串 |-||🤔  |
+|[#1768](https://leetcode-cn.com/problems/merge-strings-alternately/)交替合并字符串 |-||🤔  |
 
 
 ## 栈
