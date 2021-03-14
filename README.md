@@ -10,7 +10,7 @@ Solve problems one by one, step by step until reach the goal!
     
 
 # 模块
-数组-> 链表 -> 哈希表-> 字符串-> 栈 -> 队列 -> 堆 -> 树  -> 图 -> 排序 -> 递归 -> 滑动窗口 -> 二叉搜索树 -> 回溯 -> 贪心 -> 分治 -> 动态规划-> 
+数组-> 链表 -> 哈希表-> 字符串-> 栈 -> 队列 -> 堆 -> 树 -> 图 -> 排序 -> 递归 -> 滑动窗口 -> 二叉搜索树 -> 回溯 -> 贪心 -> 分治 -> 动态规划-> 
 
 ## 数组篇
 |leetcode_id|solution|remark|mood|
@@ -136,5 +136,12 @@ Solve problems one by one, step by step until reach the goal!
 |[#100](https://leetcode-cn.com/problems/same-tree/)相同的树 |-|-|🍜 |
 |[#331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)验证二叉树的前序序列化 |-|M|:tired_face: |
 |[#450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)删除二叉搜索树中的节点 |-|-|🍜 |
+
+
+## 堆
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
+|[#703](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)数据流中的第 K 大元素 |-|-|😢|
+|[#1046](https://leetcode-cn.com/problems/last-stone-weight/)最后一块石头的重量|-|-|😢|
 
 
