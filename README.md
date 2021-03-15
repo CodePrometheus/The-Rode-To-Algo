@@ -21,6 +21,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#27](https://leetcode-cn.com/problems/remove-element/)移除元素|-|-|:smiley: |
 |[#35](https://leetcode-cn.com/problems/search-insert-position/)搜索插入位置|-|二分查找|:sunglasses: |
 |[#53](https://leetcode-cn.com/problems/maximum-subarray/)最大子序和|-|-|:sunglasses:|
+|[#54](https://leetcode-cn.com/problems/spiral-matrix/)螺旋矩阵|-|-|🤔|
 |[#66](https://leetcode-cn.com/problems/plus-one/)加一|-|-|:sunglasses:|
 |[#88](https://leetcode-cn.com/problems/merge-sorted-array/)合并两个有序数组|-|-|:sunglasses:|
 |[#118](https://leetcode-cn.com/problems/pascals-triangle/)杨辉三角|-|-|:sunglasses:|
@@ -79,6 +80,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)无重复字符的最长子串|-|H|:thinking: |
 |[#83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)删除排序链表中的重复元素|-|-|😶 |
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)环形链表|-|-|😶 |
+|[#199](https://leetcode-cn.com/problems/binary-tree-right-side-view/)二叉树的右视图|-|-|:thinking: |
 |[#206](https://leetcode-cn.com/problems/reverse-linked-list)反转链表|-|-|:fallen_leaf:  |
 
 
