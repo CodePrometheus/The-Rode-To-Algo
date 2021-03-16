@@ -1,7 +1,9 @@
 import org.junit.Test;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 /**
  * 给定一个字符串，请你找出其中不含有重复字符的最长子串的长度。
@@ -78,6 +80,7 @@ public class LengthOfLongestSubstring003 {
 
     /**
      * hashmap
+     *
      * @param s
      * @return
      */
@@ -96,10 +99,61 @@ public class LengthOfLongestSubstring003 {
         return ans;
     }
 
+    /**
+     * 用set维护一个不重复的窗口
+     */
+    public int lengthOfLongestSubstring3(String s) {
+        int ret = 0;
+        Set<Character> set = new HashSet<>();
+        for (int l = 0, r = 0; r < s.length(); r++) {
+            char c = s.charAt(r);
+            while (set.contains(c)) {
+                // 包含就把左边移除，同时维护左边界
+                set.remove(s.charAt(l++));
+            }
+            // 不包含就加进去
+            set.add(c);
+            // 维护最长的不重复子序列，也就是与之前的窗口大小进行比较，
+            ret = Math.max(ret, r - l + 1);
+        }
+        return ret;
+    }
+
+    /**
+     * 滑动窗口
+     */
+    public int lengthOfLongestSubstring4(String s) {
+        // if(s==null) return 0;这句话可以不加，s.length()长度为0时，不进入下面的循环，会直接返回max=0;
+        // 划定当前窗口的坐标为(start,i],左开右闭,所以start的初始值为-1，而非0。
+        int max = 0, start = -1;
+        // 使用哈希表map统计各字符最后一次出现的索引位置
+        HashMap<Character, Integer> map = new HashMap<>();
+        for (int i = 0; i < s.length(); i++) {
+            char tmp = s.charAt(i);
+
+            // 当字符在map中已经存储时，需要判断其索引值index和当前窗口start的大小以确定是否需要对start进行更新:
+            // 当index>start时，start更新为当前的index,否则保持不变。
+            // 注意若index作为新的start，计算当前滑动空间的长度时也是不计入的，左开右闭，右侧s[i]会计入，这样也是防止字符的重复计入。
+            if (map.containsKey(tmp)) {
+                start = Math.max(start, map.get(tmp));
+            }
+
+            // 如果map中不含tmp，此处是在map中新增一个键值对，否则是对原有的键值对进行更新
+            map.put(tmp, i);
+
+            //i-start,为当前滑动空间(start,i]的长度，若其大于max，则需要进行更新。
+            max = Math.max(max, i - start);
+        }
+        return max;
+    }
+
 
     @Test
     public void lengthOfLongestSubstringTest() {
         String s = "abcabcbb";
         System.out.println(lengthOfLongestSubstring(s));
+        System.out.println(lengthOfLongestSubstring2(s));
+        System.out.println(lengthOfLongestSubstring3(s));
+        System.out.println(lengthOfLongestSubstring4(s));
     }
 }
