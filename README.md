@@ -94,6 +94,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#28](https://leetcode-cn.com/problems/implement-strstr/)实现 strStr()|-|-|🌛|
 |[#38](https://leetcode-cn.com/problems/count-and-say/)外观数列|-|-|🌛|
 |[#58](https://leetcode-cn.com/problems/length-of-last-word/)最后一个单词的长度|-|-|🌛|
+|[#115](https://leetcode-cn.com/problems/distinct-subsequences/)不同的子序列|-|H|😵 |
 |[#125](https://leetcode-cn.com/problems/valid-palindrome/)验证回文串|-|-|🌛|
 |[#131](https://leetcode-cn.com/problems/palindrome-partitioning/)分割回文串|-|M 回溯|:cold_face: |
 |[#132](https://leetcode-cn.com/problems/palindrome-partitioning-ii//)分割回文串 II|-|H 中心扩展|:cold_face: |
@@ -101,6 +102,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#345](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)反转字符串|-|-|:sun_with_face: |
 |[#383](https://leetcode-cn.com/problems/ransom-note/)赎金信|-|-|:sun_with_face: |
 |[#387](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)字符串中的第一个唯一字符|-|-|:sun_with_face: |
+|[#409](https://leetcode-cn.com/problems/longest-palindrome/)最长回文串|-|-|😬|
 |[#415](https://leetcode-cn.com/problems/add-strings/)字符串相加|-|-|:sun_with_face: |
 |[#434](https://leetcode-cn.com/problems/number-of-segments-in-a-string/)字符串中的单词数|-|-|:sun_with_face: |
 |[#459](https://leetcode-cn.com/problems/repeated-substring-pattern/)重复的子字符串|-|-|:sun_with_face: |
