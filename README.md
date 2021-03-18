@@ -10,7 +10,7 @@ Solve problems one by one, step by step until reach the goal!
     
 
 # 模块
-数组-> 链表 -> 哈希表-> 字符串-> 栈 -> 队列 -> 堆 -> 树 -> 图 -> 排序 -> 递归 -> 滑动窗口 -> 二叉搜索树 -> 回溯 -> 贪心 -> 分治 -> 动态规划-> 
+数组-> 链表 -> 字符串-> 栈 -> 队列 -> 堆 -> 树 -> 图 -> 哈希表-> 动态规划->  排序 -> 递归 -> 滑动窗口 -> 二叉搜索树 -> 回溯 -> 贪心 -> 分治 -> 
 
 ## 数组篇
 |leetcode_id|solution|remark|mood|
@@ -80,6 +80,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)合并两个有序链表|-|-|😶 |
 |[#25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)无重复字符的最长子串|-|H|:thinking: |
 |[#83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)删除排序链表中的重复元素|-|-|😶 |
+|[#92](https://leetcode-cn.com/problems/reverse-linked-list-ii/)反转链表 II|-|H|🥺|
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)环形链表|-|-|😶 |
 |[#199](https://leetcode-cn.com/problems/binary-tree-right-side-view/)二叉树的右视图|-|-|:thinking: |
 |[#206](https://leetcode-cn.com/problems/reverse-linked-list)反转链表|-|-|:fallen_leaf:  |
@@ -149,4 +150,9 @@ Solve problems one by one, step by step until reach the goal!
 |[#703](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)数据流中的第 K 大元素 |-|-|😢|
 |[#1046](https://leetcode-cn.com/problems/last-stone-weight/)最后一块石头的重量|-|-|😢|
 
+
+## 动态规划
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
+|[#Offer-10 II](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)青蛙跳台阶问题|-|-|🥺|
 
