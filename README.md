@@ -121,6 +121,7 @@ Solve problems one by one, step by step until reach the goal!
 ## 栈
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
+|[#150](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)逆波兰表达式求值|-||:liberia: |
 |[#232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)用栈实现队列|-||☁|
 |[#224](https://leetcode-cn.com/problems/basic-calculator/)基本计算器 |-|-|🍜 |
 |[#227](https://leetcode-cn.com/problems/basic-calculator-ii/)基本计算器 II |-|M|🍜 |
