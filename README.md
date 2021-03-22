@@ -159,3 +159,8 @@ Solve problems one by one, step by step until reach the goal!
 |:-:|:-:|:-:|:-:|
 |[#Offer-10 II](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)青蛙跳台阶问题|-|-|🥺|
 
+## 位运算
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
+|[#191](https://leetcode-cn.com/problems/number-of-1-bits/)位1的个数|-|-|🌇|
+|[#136](https://leetcode-cn.com/problems/single-number/)只出现一次的数字|-|-|🌇|
