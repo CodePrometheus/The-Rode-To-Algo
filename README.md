@@ -126,6 +126,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#232](https://leetcode-cn.com/problems/implement-queue-using-stacks/)用栈实现队列|-||☁|
 |[#224](https://leetcode-cn.com/problems/basic-calculator/)基本计算器 |-|-|🍜 |
 |[#227](https://leetcode-cn.com/problems/basic-calculator-ii/)基本计算器 II |-|M|🍜 |
+|[#456](https://leetcode-cn.com/problems/132-pattern/)整理字符串 |-|-|:bouncing_ball_person: |
 |[#1021](https://leetcode-cn.com/problems/remove-outermost-parentheses/)删除最外层的括号 |-|-|🐮 |
 |[#1047](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)删除字符串中的所有相邻重复项 |-|-|🐮 |
 |[#1441](https://leetcode-cn.com/problems/build-an-array-with-stack-operations/)用栈操作构建数组 |-|-|🐪 |
