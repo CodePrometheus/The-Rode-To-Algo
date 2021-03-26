@@ -80,6 +80,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#2](https://leetcode-cn.com/problems/add-two-numbers/)两数相加|-|M ?|:fallen_leaf:  |
 |[#21](https://leetcode-cn.com/problems/merge-two-sorted-lists/)合并两个有序链表|-|-|😶 |
 |[#25](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)无重复字符的最长子串|-|H|:thinking: |
+|[#61](https://leetcode-cn.com/problems/rotate-list/)旋转链表|-|M|:thinking: |
 |[#82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)删除排序链表中的重复元素 II|-||:thinking: |
 |[#83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)删除排序链表中的重复元素|-|-|😶 |
 |[#92](https://leetcode-cn.com/problems/reverse-linked-list-ii/)反转链表 II|-|H|🥺|
