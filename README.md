@@ -168,3 +168,9 @@ Solve problems one by one, step by step until reach the goal!
 |:-:|:-:|:-:|:-:|
 |[#191](https://leetcode-cn.com/problems/number-of-1-bits/)位1的个数|-|-|🌇|
 |[#136](https://leetcode-cn.com/problems/single-number/)只出现一次的数字|-|-|🌇|
+
+
+## 二分
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
+|[#50](https://leetcode-cn.com/problems/powx-n/)Pow(x, n)|-|M|🌂|
