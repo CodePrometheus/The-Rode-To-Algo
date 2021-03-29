@@ -33,11 +33,27 @@ public class ImplementStrstr028 {
         return -1;
     }
 
+    /**
+     * 暴力
+     */
+    public int strStr2(String haystack, String needle) {
+        int L = needle.length();
+        int n = haystack.length();
+        for (int start = 0; start < n - L + 1; start++) {
+            if (haystack.substring(start, start + L).equals(needle)) {
+                return start;
+            }
+        }
+        return -1;
+    }
+
+
 
     @Test
     public void strStrTest() {
         String haystack = "hello";
         String needle = "ll";
         System.out.println(strStr(haystack, needle));
+        System.out.println(strStr2(haystack, needle));
     }
 }
