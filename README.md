@@ -73,6 +73,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#989](https://leetcode-cn.com/problems/add-to-array-form-of-integer/)数组形式的整数加法|-||😥|
 |[#1002](https://leetcode-cn.com/problems/find-common-characters/)查找常用字符|-||☁|
 |[#1013](https://leetcode-cn.com/problems/partition-array-into-three-parts-with-equal-sum/)将数组分成和相等的三个部分|-||☁|
+|[#1362](https://leetcode-cn.com/problems/closest-divisors/)最接近的因数|-|M|:thinking: |
 |[#1480](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)一维数组的动态和 |-||:smiley: |
 |[#1672](https://leetcode-cn.com/problems/richest-customer-wealth/)最富有客户的资产总量 |-||:smiley: |
 
