@@ -19,7 +19,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#3](https://leetcode-cn.com/problems/3sum/)三数之和 |-|M|:tired_face: |
 |[#26](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)删除排序数组中的重复项|-|-|:smiley: |
 |[#27](https://leetcode-cn.com/problems/remove-element/)移除元素|-|-|:smiley: |
-|[#35](https://leetcode-cn.com/problems/search-insert-position/)搜索插入位置|-|二分查找|:sunglasses: |
+|[#35](https://leetcode-cn.com/problems/search-insert-position/)搜索插入位置|-|二分查找H|:sunglasses: |
+|[#42](https://leetcode-cn.com/problems/volume-of-histogram-lcci/)接雨水|-|  | |
 |[#53](https://leetcode-cn.com/problems/maximum-subarray/)最大子序和|-|-|:sunglasses:|
 |[#54](https://leetcode-cn.com/problems/spiral-matrix/)螺旋矩阵|-|-|🤔|
 |[#59](https://leetcode-cn.com/problems/spiral-matrix-ii/)螺旋矩阵 II|-|-|🤔|
