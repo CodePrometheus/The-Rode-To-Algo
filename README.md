@@ -180,3 +180,9 @@ Solve problems one by one, step by step until reach the goal!
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
 |[#50](https://leetcode-cn.com/problems/powx-n/)Pow(x, n)|-|M|🌂|
+
+
+## 哈希表
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
+|[#781](https://leetcode-cn.com/problems/rabbits-in-forest/)森林中的兔子|-|M|:sun_behind_small_cloud: |
