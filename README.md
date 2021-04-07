@@ -27,6 +27,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#66](https://leetcode-cn.com/problems/plus-one/)加一|-|-|:sunglasses:|
 |[#73](https://leetcode-cn.com/problems/set-matrix-zeroes/)加一|-|-|:sleepy: |
 |[#74](https://leetcode-cn.com/problems/search-a-2d-matrix/)搜索二维矩阵|-|-|:sleepy: |
+|[#80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)删除有序数组中的重复项 II|-|H|原地修改数组|
 |[#88](https://leetcode-cn.com/problems/merge-sorted-array/)合并两个有序数组|-|-|:sunglasses:|
 |[#90](https://leetcode-cn.com/problems/subsets-ii/)子集 II|-|-|:sun_behind_rain_cloud: |
 |[#118](https://leetcode-cn.com/problems/pascals-triangle/)杨辉三角|-|-|:sunglasses:|
@@ -77,6 +78,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#1362](https://leetcode-cn.com/problems/closest-divisors/)最接近的因数|-|M|:thinking: |
 |[#1480](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)一维数组的动态和 |-||:smiley: |
 |[#1672](https://leetcode-cn.com/problems/richest-customer-wealth/)最富有客户的资产总量 |-||:smiley: |
+|[#Offer03](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)数组中重复的数字|-||原地修改数组|
 
 ## 链表篇
 |leetcode_id|solution|remark|mood|
