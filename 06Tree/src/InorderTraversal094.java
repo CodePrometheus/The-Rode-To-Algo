@@ -93,7 +93,7 @@ public class InorderTraversal094 {
             // 最左的 当前节点为空，说明左边走到头了，从栈中弹出节点并保存
             root = stack.pop();
             res.add(root.val);
-            // 然后转向右边节点，继续上面整个过程
+            // 直到找到root有右节点 转向右边节点，继续上面整个过程
             root = root.right;
         }
         return res;

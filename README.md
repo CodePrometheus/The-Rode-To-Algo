@@ -194,3 +194,9 @@ Solve problems one by one, step by step until reach the goal!
 ## LCP
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
+
+
+## 回溯
+|leetcode_id|solution|remark|mood|
+|:-:|:-:|:-:|:-:|
+|[#46](https://leetcode-cn.com/problems/permutations/)全排列|-|M|?|
