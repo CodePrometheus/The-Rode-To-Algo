@@ -159,6 +159,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#100](https://leetcode-cn.com/problems/same-tree/)相同的树 |-|-|🍜 |
 |[#331](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)验证二叉树的前序序列化 |-|M|:tired_face: |
 |[#450](https://leetcode-cn.com/problems/delete-node-in-a-bst/)删除二叉搜索树中的节点 |-|-|🍜 |
+|[#783](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)二叉搜索树节点最小距离|-|-|二叉树遍历|
 
 
 ## 堆
