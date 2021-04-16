@@ -37,10 +37,74 @@ public class FibonacciNumber509 {
         return b;
     }
 
+    /**
+     * 自顶向下的动态规划
+     *
+     * @param n
+     * @return
+     */
+    public int fib3(int n) {
+        int[] memo = new int[n + 1];
+        // 进行备忘录的递归
+        return helper(memo, n);
+    }
+
+    private int helper(int[] memo, int n) {
+        // base case
+        if (n == 0 || n == 1) {
+            return n;
+        }
+        // 已经计算过了，不用再计算了
+        if (memo[n] != 0) {
+            return memo[0];
+        }
+
+        memo[n] = helper(memo, n - 1) + helper(memo, n - 2);
+        return memo[n];
+    }
+
+    /**
+     * dp 数组的迭代解法
+     */
+    public int fib4(int n) {
+        if (n == 0) {
+            return 0;
+        }
+        int[] dp = new int[n + 1];
+        // base case
+        dp[0] = 0;
+        dp[1] = 1;
+        // 状态转移
+        for (int i = 2; i <= n; i++) {
+            dp[i] = dp[i - 1] + dp[i - 2];
+        }
+        return dp[n];
+    }
+
+    /**
+     * 优化空间复杂度
+     */
+    public int fib5(int n) {
+        if (n == 0 || n == 1) {
+            return n;
+        }
+        // 递推关系
+        int pre = 0, cur = 1;
+        for (int i = 2; i <= n; i++) {
+            int sum = pre + cur;
+            pre = cur;
+            cur = sum;
+        }
+        return cur;
+    }
+
     @Test
     public void fibTest() {
         int n = 3;
-        System.out.println(fib(3));
-        System.out.println(fib2(3));
+        System.out.println(fib(n));
+        System.out.println(fib2(n));
+        System.out.println(fib3(n));
+        System.out.println(fib4(n));
+        System.out.println(fib5(n));
     }
 }
