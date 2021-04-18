@@ -24,7 +24,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#53](https://leetcode-cn.com/problems/maximum-subarray/)最大子序和|-|-|:sunglasses:|
 |[#54](https://leetcode-cn.com/problems/spiral-matrix/)螺旋矩阵|-|-|🤔|
 |[#59](https://leetcode-cn.com/problems/spiral-matrix-ii/)螺旋矩阵 II|-|-|🤔|
-|[#66](https://leetcode-cn.com/problems/plus-one/)加一|-|-|:sunglasses:|
+|[#66](https://leetcode-cn.com/problems/plus-one/)加一|-|过|处理好进位操作|
 |[#73](https://leetcode-cn.com/problems/set-matrix-zeroes/)加一|-|-|:sleepy: |
 |[#74](https://leetcode-cn.com/problems/search-a-2d-matrix/)搜索二维矩阵|-|-|:sleepy: |
 |[#80](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)删除有序数组中的重复项 II|-|H|原地修改数组|
@@ -102,7 +102,7 @@ Solve problems one by one, step by step until reach the goal!
 |:-:|:-:|:-:|:-:|
 |[#3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)无重复字符的最长子串|-|M|:thinking: |
 |[#5](https://leetcode-cn.com/problems/longest-palindromic-substring/)最长回文子串|-|M|:thinking: |
-|[#9]https://leetcode-cn.com/problems/palindrome-number/)回文数|-||☔ |
+|[#9](https://leetcode-cn.com/problems/palindrome-number/)回文数|-||☔ |
 |[#14](https://leetcode-cn.com/problems/longest-common-prefix/)最长公共前缀|-|-|🌛|
 |[#20](https://leetcode-cn.com/problems/valid-parentheses/)有效的括号|-|-|🌛|
 |[#28](https://leetcode-cn.com/problems/implement-strstr/)实现 strStr()|-|-|🌛|
@@ -202,6 +202,8 @@ Solve problems one by one, step by step until reach the goal!
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
 |[#5726](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)数组元素积的符号|-||4.11周赛|
+|[#5734](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/)判断句子是否为全字母句|-|acsii|4.18周赛|
+|[#5735](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)雪糕的最大数量|-|贪心|4.18周赛|
 
 
 ## 回溯
