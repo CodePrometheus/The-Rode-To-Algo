@@ -202,6 +202,7 @@ Solve problems one by one, step by step until reach the goal!
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
 |[#5726](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array/)数组元素积的符号|-||4.11周赛|
+|[#1828](https://leetcode-cn.com/problems/queries-on-number-of-points-inside-a-circle/)统计一个圆中点的数目|-||4.17周赛|
 |[#5734](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram/)判断句子是否为全字母句|-|acsii|4.18周赛|
 |[#5735](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)雪糕的最大数量|-|贪心|4.18周赛|
 
