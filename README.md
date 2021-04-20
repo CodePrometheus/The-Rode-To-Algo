@@ -177,6 +177,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#198](https://leetcode-cn.com/problems/house-robber/)打家劫舍|-|-||
 |[#309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)最佳买卖股票时机含冷冻期|-|-|🥺|
 |[#322](https://leetcode-cn.com/problems/coin-change/)零钱兑换|-|-||
+|[#343](https://leetcode-cn.com/problems/integer-break/)整数拆分|-|减绳子|动规，贪心|
 
 ## 位运算
 |leetcode_id|solution|remark|mood|
