@@ -50,5 +50,33 @@ public class ReverseLinkedList206 {
         return node;
     }
 
+    // 迭代
+    public ListNode reverseList3(ListNode head) {
+        ListNode pre = null;
+        ListNode cur = head;
+
+        while (cur != null) {
+            ListNode tmp = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur = tmp;
+        }
+        return pre;
+    }
+
+    // 递归
+    public ListNode reverseList4(ListNode head) {
+        return reverse(null, head);
+    }
+
+    private ListNode reverse(ListNode pre, ListNode cur) {
+        if (cur == null) {
+            return pre;
+        }
+        ListNode next = cur.next;
+        cur.next = pre;
+        return reverse(cur, next);
+    }
+
 
 }

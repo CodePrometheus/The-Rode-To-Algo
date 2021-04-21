@@ -1,3 +1,4 @@
+
 # Changing
 Solve problems one by one, step by step until reach the goal!
 
@@ -94,7 +95,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#92](https://leetcode-cn.com/problems/reverse-linked-list-ii/)反转链表 II|-|H|🥺|
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)环形链表|-|-|😶 |
 |[#199](https://leetcode-cn.com/problems/binary-tree-right-side-view/)二叉树的右视图|-|-|:thinking: |
-|[#206](https://leetcode-cn.com/problems/reverse-linked-list)反转链表|-|-|:fallen_leaf:  |
+|[#206](https://leetcode-cn.com/problems/reverse-linked-list)反转链表|-|迭代和递归必须掌握||
 
 
 ## 字符串
