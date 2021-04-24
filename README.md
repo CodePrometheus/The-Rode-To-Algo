@@ -178,7 +178,8 @@ Solve problems one by one, step by step until reach the goal!
 |[#198](https://leetcode-cn.com/problems/house-robber/)打家劫舍|-|-||
 |[#309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)最佳买卖股票时机含冷冻期|-|-|🥺|
 |[#322](https://leetcode-cn.com/problems/coin-change/)零钱兑换|-|-||
-|[#343](https://leetcode-cn.com/problems/integer-break/)整数拆分|-|减绳子|动规，贪心|
+|[#343](https://leetcode-cn.com/problems/integer-break/)整数拆分|-|剪绳子|动规，贪心|
+|[#377](https://leetcode-cn.com/problems/combination-sum-iv/)组合总和 Ⅳ|-|M|递归 记忆化搜索 动规|
 
 ## 位运算
 |leetcode_id|solution|remark|mood|
