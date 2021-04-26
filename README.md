@@ -193,6 +193,7 @@ Solve problems one by one, step by step until reach the goal!
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
 |[#50](https://leetcode-cn.com/problems/powx-n/)Pow(x, n)|-|M|🌂|
+|[#1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)在 D 天内送达包裹的能力|-|M||
 
 
 ## 哈希表
