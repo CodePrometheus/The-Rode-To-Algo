@@ -92,6 +92,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#61](https://leetcode-cn.com/problems/rotate-list/)旋转链表|-|M|:thinking: |
 |[#82](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)删除排序链表中的重复元素 II|-||:thinking: |
 |[#83](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)删除排序链表中的重复元素|-|-|😶 |
+|[#86](https://leetcode-cn.com/problems/partition-list/)分隔链表|-|-|两个虚拟头节点|
 |[#92](https://leetcode-cn.com/problems/reverse-linked-list-ii/)反转链表 II|-|H|🥺|
 |[#141](https://leetcode-cn.com/problems/linked-list-cycle/)环形链表|-|-|😶 |
 |[#199](https://leetcode-cn.com/problems/binary-tree-right-side-view/)二叉树的右视图|-|-|:thinking: |
@@ -215,3 +216,10 @@ Solve problems one by one, step by step until reach the goal!
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
 |[#46](https://leetcode-cn.com/problems/permutations/)全排列|-|M|?|
+
+
+## 回溯
+|leetcode_id|solution|remark|
+|:-:|:-:|:-:|
+|[#633](https://leetcode-cn.com/problems/sum-of-square-numbers/)平方数之和|-|M|
+
