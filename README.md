@@ -181,6 +181,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#322](https://leetcode-cn.com/problems/coin-change/)零钱兑换|-|-||
 |[#343](https://leetcode-cn.com/problems/integer-break/)整数拆分|-|剪绳子|动规，贪心|
 |[#377](https://leetcode-cn.com/problems/combination-sum-iv/)组合总和 Ⅳ|-|M|递归 记忆化搜索 动规|
+|[#403](https://leetcode-cn.com/problems/frog-jump/)青蛙过河|-|H||
 
 ## 位运算
 |leetcode_id|solution|remark|mood|
@@ -218,7 +219,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#46](https://leetcode-cn.com/problems/permutations/)全排列|-|M|?|
 
 
-## 回溯
+## 数学
 |leetcode_id|solution|remark|
 |:-:|:-:|:-:|
 |[#633](https://leetcode-cn.com/problems/sum-of-square-numbers/)平方数之和|-|M|
