@@ -180,6 +180,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#309](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)最佳买卖股票时机含冷冻期|-|-|🥺|
 |[#322](https://leetcode-cn.com/problems/coin-change/)零钱兑换|-|-||
 |[#343](https://leetcode-cn.com/problems/integer-break/)整数拆分|-|剪绳子|动规，贪心|
+|[#368](https://leetcode-cn.com/problems/largest-divisible-subset/)最大整除子集|-||形同最长递增子序列|
 |[#377](https://leetcode-cn.com/problems/combination-sum-iv/)组合总和 Ⅳ|-|M|递归 记忆化搜索 动规|
 |[#403](https://leetcode-cn.com/problems/frog-jump/)青蛙过河|-|H||
 
@@ -194,7 +195,7 @@ Solve problems one by one, step by step until reach the goal!
 ## 二分
 |leetcode_id|solution|remark|mood|
 |:-:|:-:|:-:|:-:|
-|[#50](https://leetcode-cn.com/problems/powx-n/)Pow(x, n)|-|M|🌂|
+|[#50](https://leetcode-cn.com/problems/powx-n/)Pow(x, n)|-|M|快速幂|
 |[#1011](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)在 D 天内送达包裹的能力|-|M||
 
 

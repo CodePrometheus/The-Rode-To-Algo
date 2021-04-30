@@ -49,11 +49,14 @@ public class PowN050 {
     public double myPow(double x, int n) {
         double res = 1.0;
         for (int i = n; i != 0; i /= 2) {
-            if (i % 2 != 0) {
+            int tmp = i % 2;
+            if (tmp != 0) {
+                // 奇数额外再乘一次
                 res = res * x;
             }
             x = x * x;
         }
+        // 对负数处理
         return n < 0 ? 1 / res : res;
     }
 
@@ -61,7 +64,7 @@ public class PowN050 {
     @Test
     public void myPowTest() {
         double x = 2;
-        int n = -4;
+        int n = 4;
         System.out.println(myPow(x, n));
     }
 
