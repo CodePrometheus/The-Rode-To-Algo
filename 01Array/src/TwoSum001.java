@@ -79,8 +79,8 @@ public class TwoSum001 {
 
     @Test
     public void twoSumTest() {
-        int[] nums = {2, 7, 11, 15};
-        int target = 9;
+        int[] nums = {3, 2, 4};
+        int target = 6;
         System.out.println(Arrays.toString(twoSum(nums, target)));
         System.out.println(Arrays.toString(twoSum2(nums, target)));
         System.out.println(Arrays.toString(twoSum3(nums, target)));

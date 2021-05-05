@@ -183,6 +183,7 @@ Solve problems one by one, step by step until reach the goal!
 |[#368](https://leetcode-cn.com/problems/largest-divisible-subset/)最大整除子集|-||形同最长递增子序列|
 |[#377](https://leetcode-cn.com/problems/combination-sum-iv/)组合总和 Ⅳ|-|M|递归 记忆化搜索 动规|
 |[#403](https://leetcode-cn.com/problems/frog-jump/)青蛙过河|-|H||
+|[#740](https://leetcode-cn.com/problems/delete-and-earn/)删除并获得点数|-|M||
 
 ## 位运算
 |leetcode_id|solution|remark|mood|
