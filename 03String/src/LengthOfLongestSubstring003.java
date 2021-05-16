@@ -1,9 +1,6 @@
 import org.junit.Test;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 /**
  * 给定一个字符串，请你找出其中不含有重复字符的最长子串的长度。
@@ -50,18 +47,17 @@ public class LengthOfLongestSubstring003 {
      * 滑动窗口
      */
     public int lengthOfLongestSubstring(String s) {
-        // 记录字符上一次出现的位置
-        int[] last = new int[128];// 标准ascii码值示范围是0-127
-        for (int i = 0; i < 128; i++) {
-            last[i] = -1;
-        }
+        // 记录字符上一次出现的位置 // 标准ascii码值示范围是0-127
+        int[] last = new int[128];
+        Arrays.fill(last, -1);
         int n = s.length();
 
         int res = 0;
         // 窗口开始位置
         int start = 0;
         for (int i = 0; i < n; i++) {
-            int index = s.charAt(i);// 下标i所对应字母的ascii码值
+            // 下标i所对应字母的ascii码值
+            int index = s.charAt(i);
             /**
              * last[ascii_value]+1，last[ascii_value]记录着上一次重复字母的索引位置，
              * 每次重复了，窗口的开始端就要滑动一位,也就是+1。比如：abcad，第一个最大窗口是[abc]，此时last[97]=0
