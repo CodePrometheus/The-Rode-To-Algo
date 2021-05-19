@@ -186,11 +186,12 @@ Solve problems one by one, step by step until reach the goal!
 |[#740](https://leetcode-cn.com/problems/delete-and-earn/)删除并获得点数|-|M||
 
 ## 位运算
-|leetcode_id|solution|remark|mood|
-|:-:|:-:|:-:|:-:|
-|[#190](https://leetcode-cn.com/problems/reverse-bits/)颠倒二进制位|-|-|🌇|
-|[#191](https://leetcode-cn.com/problems/number-of-1-bits/)位1的个数|-|-|🌇|
-|[#136](https://leetcode-cn.com/problems/single-number/)只出现一次的数字|-|-|🌇|
+|leetcode_id|solution|remark|
+|:-:|:-:|:-:|
+|[#190](https://leetcode-cn.com/problems/reverse-bits/)颠倒二进制位|-|-|
+|[#191](https://leetcode-cn.com/problems/number-of-1-bits/)位1的个数|-|-|
+|[#136](https://leetcode-cn.com/problems/single-number/)只出现一次的数字|-|-|
+|[#剑指 Offer 56 - I](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)数组中数字出现的次数|-|-|
 
 
 ## 二分
