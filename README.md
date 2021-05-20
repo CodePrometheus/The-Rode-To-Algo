@@ -166,10 +166,11 @@ Solve problems one by one, step by step until reach the goal!
 
 
 ## 堆
-|leetcode_id|solution|remark|mood|
-|:-:|:-:|:-:|:-:|
-|[#703](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)数据流中的第 K 大元素 |-|-|😢|
-|[#1046](https://leetcode-cn.com/problems/last-stone-weight/)最后一块石头的重量|-|-|😢|
+|leetcode_id|solution|remark|
+|:-:|:-:|:-:|
+|[#692](https://leetcode-cn.com/problems/top-k-frequent-words/)前K个高频单词|-|小根堆|
+|[#703](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/)数据流中的第 K 大元素 |-|😢|
+|[#1046](https://leetcode-cn.com/problems/last-stone-weight/)最后一块石头的重量|-|😢|
 
 
 ## 动态规划
