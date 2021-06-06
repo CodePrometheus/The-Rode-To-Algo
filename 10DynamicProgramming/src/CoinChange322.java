@@ -71,10 +71,30 @@ public class CoinChange322 {
         return res == Integer.MAX_VALUE ? -1 : res;
     }
 
+    /**
+     * 动态规划
+     */
+    public int coinChange2(int[] coins, int amount) {
+        int[] dp = new int[amount + 1];
+        dp[0] = 0;
+        for (int i = 1; i <= amount; i++) {
+            dp[i] = amount + 1;
+            for (int j = 0; j < coins.length; j++) {
+                if (coins[j] <= i) {
+                    int tmp = dp[i - coins[j]] + 1;
+                    dp[i] = Math.min(tmp, dp[i]);
+                }
+            }
+        }
+        return dp[amount] > amount ? -1 : dp[amount];
+    }
+
+
     @Test
     public void coinChange() {
         int[] nums = {1, 2, 5};
         int tar = 11;
         System.out.println(coinChange(nums, tar));
+        System.out.println(coinChange2(nums, tar));
     }
 }

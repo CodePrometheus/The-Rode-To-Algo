@@ -228,4 +228,5 @@ Solve problems one by one, step by step until reach the goal!
 |leetcode_id|solution|remark|
 |:-:|:-:|:-:|
 |[#633](https://leetcode-cn.com/problems/sum-of-square-numbers/)平方数之和|-|M|
+|[#912](https://leetcode-cn.com/problems/sort-an-array/)排序数组|-|手写快排|
 
