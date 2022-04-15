@@ -1,3 +1,5 @@
+import org.junit.Test;
+
 /**
  * 反转一个单链表。
  * <p>
@@ -19,17 +21,11 @@ public class ReverseLinkedList206 {
      * null <- 1 <- 2 <- 3 <- 4 <- null
      */
     public ListNode reverseList(ListNode head) {
-        ListNode pre = null;
-        ListNode cur = head;
-
+        ListNode pre = null, cur = head;
         while (cur != null) {
-            // 临时节点，暂存当前节点的下一节点，用于后移
             ListNode next = cur.next;
-            // 将当前节点指向它前面的节点
             cur.next = pre;
-            // 前指针后移
             pre = cur;
-            // 当前指针后移
             cur = next;
         }
         return pre;
@@ -78,5 +74,27 @@ public class ReverseLinkedList206 {
         return reverse(cur, next);
     }
 
+    @Test
+    public void sortTest() {
+        // 测试 1-8-3-6-5-4-7-2-9
+        ListNode l9 = new ListNode(9);
+        ListNode l2 = new ListNode(2, l9);
+        ListNode l7 = new ListNode(7, l2);
+        ListNode l4 = new ListNode(4, l7);
+        ListNode l5 = new ListNode(5, l4);
+        ListNode l6 = new ListNode(6, l5);
+        ListNode l3 = new ListNode(3, l6);
+        ListNode l8 = new ListNode(8, l3);
+        ListNode head = new ListNode(1, l8);
+        ListNode ans = reverseList(head);
+        // 9 2 7 4 5 6 3 8 1
+        System.out.println(ans);
+    }
+
+    @Test
+    public void test() {
+        int[] a = new int[]{1, 8, 3, 6, 5};
+        System.out.println(ArrayToListNode.arrayToListNode(a));
+    }
 
 }

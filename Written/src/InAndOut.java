@@ -119,7 +119,6 @@ public class InAndOut {
     // 0
     void seven() {
         Scanner sc = new Scanner(System.in);
-
         while (sc.hasNextLine()) {
             int sum = 0;
             String s = sc.nextLine();

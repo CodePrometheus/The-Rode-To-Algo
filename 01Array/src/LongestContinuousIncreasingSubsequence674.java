@@ -25,9 +25,6 @@ public class LongestContinuousIncreasingSubsequence674 {
      * 动态规划
      */
     public int findLengthOfLCIS(int[] nums) {
-        if (nums.length < 1) {
-            return 0;
-        }
         // 当前值 连续递增序列的开始下标
         int d = 0;
         // 最长值
