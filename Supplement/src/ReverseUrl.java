@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 /**
  * 翻转URL字符串里的单词
  * www.bytedance.com -> com.bytedance.www
