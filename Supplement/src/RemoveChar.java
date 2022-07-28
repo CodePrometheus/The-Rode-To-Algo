@@ -7,13 +7,11 @@ import java.util.Stack;
  * @Date: 04-14-2022 19:31
  */
 public class RemoveChar {
-
     public static void main(String[] args) {
         System.out.println(remove("bbdfg"));
         System.out.println(remove("ghghacbdsfds"));
         System.out.println(remove("dfaaabbbcccdfdf"));
     }
-
     static String remove(String str) {
         if (str == null || str.equals("")) return str;
         Stack<Character> s = new Stack<>();

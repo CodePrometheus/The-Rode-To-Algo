@@ -11,7 +11,6 @@ import java.util.List;
  * @Date: 04-14-2022 09:36
  */
 public class MergeSortedNArray {
-
     @Test
     public void test() {
         int[] a1 = {2, 3, 5, 20}, a2 = {2, 4, 6, 8, 10, 12}, a3 = {1, 9, 11};
@@ -19,7 +18,6 @@ public class MergeSortedNArray {
         int[] res = mergeAll(list, 0, list.size() - 1);
         System.out.println(Arrays.toString(res));
     }
-
     int[] merge(int[] arr1, int[] arr2) {
         int m = 0;
         int n = 0;
@@ -39,7 +37,6 @@ public class MergeSortedNArray {
 
         return mergeArr;
     }
-
     int[] mergeAll(List<int[]> list, int l, int r) {
         if (l >= r) {
             return list.get(l);

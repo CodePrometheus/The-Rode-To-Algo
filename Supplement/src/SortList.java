@@ -7,7 +7,6 @@ import org.junit.Test;
  * @Date: 11-20-2021 13:20
  */
 public class SortList {
-
     @Test
     public void sortTest() {
         // 测试 1-8-3-6-5-4-7-2-9
@@ -24,7 +23,6 @@ public class SortList {
         // 1 2 3 4 5 6 7 8 9
         System.out.println(ans);
     }
-
     public ListNode sort(ListNode head) {
         if (head == null || head.next == null) {
             return head;
@@ -40,7 +38,6 @@ public class SortList {
         o = reverse(o);
         return merge(e, o).next;
     }
-
     public ListNode reverse(ListNode head) {
         ListNode du = null, cur = head;
         while (cur != null) {
@@ -51,7 +48,6 @@ public class SortList {
         }
         return du;
     }
-
     public ListNode merge(ListNode h1, ListNode h2) {
         ListNode du = new ListNode(0), cur = du;
         while (h1 != null && h2 != null) {
@@ -67,4 +63,5 @@ public class SortList {
         cur.next = h1 == null ? h2 : h1;
         return du;
     }
+
 }

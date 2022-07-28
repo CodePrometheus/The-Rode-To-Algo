@@ -7,7 +7,6 @@ import org.junit.Test;
  * @Date: 12-03-2021 17:47
  */
 public class KthSmallestInTwoSortedArray {
-
     public int getKth(int[] a, int i, int[] b, int j, int k) {
         if (i >= a.length) {
             return b[j + k - 1];
@@ -26,7 +25,6 @@ public class KthSmallestInTwoSortedArray {
             return getKth(a, i, b, j + k / 2, k - k / 2);
         }
     }
-
     @Test
     public void getKthTest() {
         int[] a = {1, 56, 78, 477};
