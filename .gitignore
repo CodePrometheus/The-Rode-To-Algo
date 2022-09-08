@@ -5,6 +5,7 @@ target/
 !**/src/test/**/target/
 /Written/*
 /out/*
+/TopHot/*
 
 .apt_generated
 .classpath
