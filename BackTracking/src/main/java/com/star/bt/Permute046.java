@@ -28,9 +28,6 @@ import java.util.List;
  */
 public class Permute046 {
 
-    /**
-     *
-     */
     public List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         List<Integer> path = new ArrayList<>();

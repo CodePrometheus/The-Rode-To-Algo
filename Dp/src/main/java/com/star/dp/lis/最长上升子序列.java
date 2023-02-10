@@ -1,10 +1,10 @@
-package com.star.dp;
+package com.star.dp.lis;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * https://leetcode-cn.com/problems/longest-increasing-subsequence/
+ * <a href="https://leetcode-cn.com/problems/longest-increasing-subsequence/">T300</a>
  *
  * @Author: zzStar
  * @Date: 03-26-2022 16:01

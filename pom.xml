@@ -21,6 +21,7 @@
         <module>Math</module>
         <module>BackTracking</module>
         <module>Plus</module>
+        <module>TopHot</module>
     </modules>
 
     <name>rode2algo</name>

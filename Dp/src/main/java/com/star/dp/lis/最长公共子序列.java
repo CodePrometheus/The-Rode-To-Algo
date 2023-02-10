@@ -1,9 +1,9 @@
-package com.star.dp;
+package com.star.dp.lis;
 
 import java.util.Scanner;
 
 /**
- * https://leetcode-cn.com/problems/longest-common-subsequence/
+ * <a href="https://leetcode-cn.com/problems/longest-common-subsequence/">T1143</a>
  *
  * @Author: zzStar
  * @Date: 03-26-2022 16:21

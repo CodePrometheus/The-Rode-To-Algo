@@ -8,5 +8,5 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.star.common</groupId>
     <artifactId>Common</artifactId>
-    <name>Archetype - Common</name>
+    <name>Common</name>
 </project>

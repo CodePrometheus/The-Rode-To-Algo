@@ -1,4 +1,4 @@
-package com.star.dp;
+package com.star.dp.lis;
 
 import java.util.Scanner;
 

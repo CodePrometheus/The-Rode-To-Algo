@@ -3,7 +3,8 @@ package com.star.dp;
 import java.util.Scanner;
 
 /**
- * 给定一个如下图所示的数字三角形，从顶部出发，在每一结点可以选择移动至其左下方的结点或移动至其右下方的结点，一直走到底层，要求找出一条路径，使路径上的数字的和最大。
+ * 给定一个如下图所示的数字三角形，从顶部出发，在每一结点可以选择移动至其左下方的结点或移动至其右下方的结点
+ * 一直走到底层，要求找出一条路径，使路径上的数字的和最大
  * <p>
  * 7
  * 3   8
@@ -34,7 +35,7 @@ import java.util.Scanner;
  * @Author: zzStar
  * @Date: 04-22-2021 16:15
  */
-public class acwing898 {
+public class Acwing898 {
 
     public static void main(String[] args) {
         int[][] a = new int[510][510];
@@ -52,10 +53,8 @@ public class acwing898 {
                 f[i][j] = Integer.MIN_VALUE;
             }
         }
-
         // 起点
         f[1][1] = a[1][1];
-
 
         /**
          *         7
@@ -81,8 +80,5 @@ public class acwing898 {
             res = Math.max(res, f[n][k]);
         }
         System.out.println(res);
-
     }
-
-
 }
